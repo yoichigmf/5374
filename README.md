@@ -17,6 +17,9 @@ For English please see [LOCALIZE_en.md](LOCALIZE_en.md).
 
 [HOWTOUSE.md](HOWTOUSE.md)に5374標準の文章を用意してあるので、書き換えて使ってください。
 
+##提供されるゴミ情報について
+立川市ごみ対策課発行「資源とごみの分別ハンドブック」「資源とごみの収集カレンダー」平成25年11月をもとにしています。
+
 ## ローカライズについて
 
 各地域へのローカライズについては[LOCALIZE.md](LOCALIZE.md)を参照するようにしてください。
